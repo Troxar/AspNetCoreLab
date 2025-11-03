@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreLab", "AspNetCoreLab\AspNetCoreLab.csproj", "{75770870-73C2-4F00-9A08-7DF32078C04B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75770870-73C2-4F00-9A08-7DF32078C04B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75770870-73C2-4F00-9A08-7DF32078C04B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75770870-73C2-4F00-9A08-7DF32078C04B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75770870-73C2-4F00-9A08-7DF32078C04B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
