@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreLab", "AspNetCoreLab\AspNetCoreLab.csproj", "{75770870-73C2-4F00-9A08-7DF32078C04B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreLab.WebApi", "src\AspNetCoreLab.WebApi\AspNetCoreLab.WebApi.csproj", "{75770870-73C2-4F00-9A08-7DF32078C04B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
